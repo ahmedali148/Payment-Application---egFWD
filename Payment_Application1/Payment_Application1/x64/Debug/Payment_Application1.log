@@ -1,0 +1,9 @@
+﻿  app.c
+  Card.c
+D:\Embedded Systems\Eg_fwd_professional\Projects\Payment_Application1\Payment_Application1\CARD\Card.c(51,2): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+  Server.c
+  Terminal.c
+  TEST.c
+  Generating Code...
+  Payment_Application1.vcxproj -> D:\Embedded Systems\Eg_fwd_professional\Projects\Payment_Application1\x64\Debug\Payment_Application1.exe
